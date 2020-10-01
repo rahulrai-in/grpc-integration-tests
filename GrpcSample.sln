@@ -7,11 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcSample.Tests", "GrpcSam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcSample.Service", "GrpcSample.Service\GrpcSample.Service.csproj", "{7824019B-0738-46FF-9FBC-8AB1DD79B79C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcSample.Contracts", "GrpcSample.Contracts\GrpcSample.Contracts.csproj", "{2E2B7C8D-34DA-4DCC-A96A-11BDBA77A066}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcSample.Contracts", "GrpcSample.Contracts\GrpcSample.Contracts.csproj", "{2E2B7C8D-34DA-4DCC-A96A-11BDBA77A066}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9F732528-623B-4282-A241-FA1CDEC887AA}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
 Global
